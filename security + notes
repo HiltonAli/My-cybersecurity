@@ -1,0 +1,57 @@
+Security + notes
+
+ SECTION 1
+CIA Triad
+Confidentiality = Keep data private.
+Integrity = Keep data accurate.
+Availability = Keep systems accessible.
+
+Authentication - Verifying who a user is.
+Examples: Password - Fingerprint - MFA 
+
+Authorization - Determines what a user can access.
+
+Accounting - Tracks user activity.
+
+Malware = Malicious software.
+Types= Virus - Worm - Trojan - Ransomware - Spyware
+
+
+Phishing = Fake messages used to steal information.
+Defense: Verify sender - Avoid suspicious links - 
+
+Social Engineering = Tricking people into giving information.
+
+Examples: Phishing - Tailgating - Impersonation
+
+
+
+
+
+
+SECTION 2 
+
+Firewall = Blocks unwanted network traffic.
+
+Antivirus = Detects and removes malware.
+
+VPN = Encrypts internet traffic.
+
+Encryption = Turns readable data into unreadable data.
+Purpose:Protect sensitive information
+
+Multi-Factor Authentication (MFA) = Uses two or more login methods.
+Example:Password + Phone Code
+
+Risk = Threat × Vulnerability
+
+Vulnerability = A weakness in a system.
+
+Threat = Anything that could cause harm.
+
+Patch Management = Regularly updating software to fix vulnerabilities.
+
+Principle of Least Privilege = Users should only have access to what they need.
+
+Defense in Depth = Use multiple layers of security.
+Example: - Password - MFA - Firewall - Antivirus - Incident Response Steps - Prepare - Detect - Contain - Eradicate - Recover - Review
