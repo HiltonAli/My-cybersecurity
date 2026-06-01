@@ -1,7 +1,6 @@
 Cybersecurity defense 
 
 Security Tools
-
 Firewall - Filters network traffic and blocks unwanted connections.
 Antivirus - Detects and removes malware.
 VPN - Encrypts internet traffic and improves privacy.
@@ -10,7 +9,7 @@ IDS - Intrusion Detection System.    Detects suspicious activity.
 
 IPS - Intrusion Prevention System.   Detects and blocks threats.
 
-Security Best Practices
+Security Best Practices:
 
 Keep software updated.
 Use strong passwords.
