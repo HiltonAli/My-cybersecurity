@@ -1,0 +1,39 @@
+
+
+Common Cyber Threats
+
+Phishing Threat: Fake emails, texts, or websites that try to steal information.
+Defense: Don't click suspicious links - Verify the sender - Use MFA.
+
+  Malware
+Threat: Harmful software that damages or steals data.
+
+Types: Virus - Trojan - Worm - Ransomware - Spyware
+Defense: Install antivirus software -  Keep software updated  - Avoid unknown downloads.
+
+
+  Ransomware
+Threat: Malware that locks files until money is paid.
+Defense: Back up important files - Avoid suspicious links - Keep systems updated - 
+  
+Password Attacks
+Threat: Hackers try to guess or steal passwords.
+Examples: Brute Force - Dictionary Attack - Credential Stuffing
+Defense: Use strong passwords - Enable MFA - Never reuse passwords.
+
+  Social Engineering
+Threat: Manipulating people into revealing information.
+Examples: Impersonation - Fake tech support - Tailgating
+Defense: Verify identities - Be cautious with personal information - Follow security policies.
+
+Denial of Service (DoS)
+Threat: Overloads a system so users cannot access it.
+Defense: Use firewalls - Monitor traffic - Use DDoS protection services.
+
+  Man-in-the-Middle (MITM)
+Threat: An attacker intercepts communication between two parties.
+Defense: Use HTTPS - Use VPNs - Avoid public Wi-Fi for sensitive activities.
+  
+Insider Threats
+Threat: Employees or trusted users misuse access.
+Defense: Limit user permissions - Monitor activity. - Conduct security training.
