@@ -1,0 +1,33 @@
+Cybersecurity defense 
+
+Security Tools
+
+Firewall - Filters network traffic and blocks unwanted connections.
+Antivirus - Detects and removes malware.
+VPN - Encrypts internet traffic and improves privacy.
+
+IDS - Intrusion Detection System.    Detects suspicious activity.
+
+IPS - Intrusion Prevention System.   Detects and blocks threats.
+
+Security Best Practices
+
+Keep software updated.
+Use strong passwords.
+Enable MFA.
+Back up important files.
+Be careful with emails and links.
+Lock devices when not in use.
+Follow company security policies.
+
+Key Defense Principle
+Defense in Depth
+
+Use multiple layers of security.
+
+Example: Strong password - MFA - Firewall - Antivirus - Security awareness
+
+If one layer fails, another layer helps protect the system.
+
+
+
