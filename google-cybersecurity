@@ -1,19 +1,72 @@
 
  Course started june 8 
+
+
 program overview: - Core security concepts - security domains - network security - computer basics - assets,threats and vulrnerabilities -  incident detection - python
 
+common job titles to look for - security analyst or specialist - cybersecurity analyst or specialist
+
+security anaylst skills: programming langauages - (SIEM) tools - computer foresensics
+ 
 
 
-Module 1
+Module 1 welcome to the exciting world of cybersecurity
+
+Benefits of security: - protect against external and internal threats - meets regulatory compliance - maintains and improves business productivity - reduces expenses
+
+Sensitive personally idnetifiable information (SPII)- A specific type of PII that fall under stricter handling. such as (social security numbers, medical/finacial information)  
+Personal identifiable Information (PII) is any type of data that can be used to identify a person
+
+
+Module 1 Quiz
+
+2. What occurs during a security audit?
+review of an organizations security records, activites and other related documents 
+
+3. which of the following entities may be an internal threat to an organization?
+vendors - employes - trusted partners
+
+4. idenity theft is an act of stealing personal information to committ theft while impersonating victim 
+
+9. Which of the following statements accurately describe personally identifiable information (PII) and sensitive personally identifiable information (SPII)? Select all that apply.
+an example of PII is someone's date of birth.
+Both PII and SPII are vulnerable to identity theft.
+
+completed june 8
+
+
+Module 2 The evolution of cybersecurity
+
+What you will learn: - viruses - malware - social engineering - digital age -  security domains 
+Brain virus - 
+morris worm - 
+the loveletterattack - was social engineering 
+equifax breach - one of the largest known data breaches of sensitive information over 143 million customers records we stolen
+
+QUIZ History of cybersecurity 
+
+1. A computer virus is malicious_____ that interferes with computer operations and causes damage
+- code
+3. what were key impacts of the equifax breach?
+The significant finacial consequences of a breach became more apparent - millions of customer PII was stolen
+ 2.what is one way that the morris worm helped shape the security industry 
 
 
 
-Module 2 
+The eight CISSP security domains
+   first 4:  security and risk management -  assest security - security architecture and engineering - communications and network security 
+  second 4:  Identity and access management - security assessment and testing - security operations - software development security
+
+
+The eight CISSP security domains can help an organization and its security team fortify against and prepare for a data breach. Data breaches range from simple to complex and fall under one or more domains
 
 
 
-Module 3
 
 
 
-Module 4 
+Module 3 Protect against threats, risks and  vulnerablities 
+
+
+
+Module 4 Cybersecurity tools and programming laugauages 
