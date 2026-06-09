@@ -53,6 +53,7 @@ The significant finacial consequences of a breach became more apparent - million
 
 
 
+
 The eight CISSP security domains
    first 4:  security and risk management -  assest security - security architecture and engineering - communications and network security 
   second 4:  Identity and access management - security assessment and testing - security operations - software development security
@@ -60,13 +61,80 @@ The eight CISSP security domains
 
 The eight CISSP security domains can help an organization and its security team fortify against and prepare for a data breach. Data breaches range from simple to complex and fall under one or more domains
 
+QUIZ EIGHT CISSP SECURITY DOMAINS
+ 1. example of security ______ include security and risk mangement and security archeitecture and engineering 
+domains
 
+what we covered - viruses - malware - social engineering - digital age - security domains 
 
+Module 2  TEST
+
+ 2. what historical event used a malware attachment to steal user information and password?
+LoveLetter attack 
+ 5.which of the following task are part of the security and risk management domain?
+ buisness continuty - defining security goals and objectives - compliance 
+ 7.which of the following task may be part of the asset security domain?
+proper diposal of digital assets - securing digital and physical threats 
+10.
 
 
 
 Module 3 Protect against threats, risks and  vulnerablities 
 
+what you learn: security framework and controls - ethics of security 
+
+purpose of security frameworks:   protecting PII - securing finacial information - identify security weakness - managing organizational risks
+componets of security frameworks:  idetifying and documenting security goals - setting guidlines to achieve security goals - implementing strong security processes - monitoring and communicating results
+secuurity controls
+CIA TRIAD - A foundational cybersecurity model
+
+security and framework QUIZ
+1. security frameworks are guidliines used for building plans to mitgigate risk and threats to data and privacy.
+2. security controls are safe guards designed to reduce specfic security risks.
+4. Security teams use the NIST cybersecurity framework(CSF) as a baseline to mange short and long term risk
+
+
+Security ethics - guidlines for making appropiate decisions as a security professional 
+ehical principles: confidentiality - privacy protection - Laws
+
+
+MODULE 3 TEST 
+
+1. Primary purpose of security frameworks? 
+protecting PII data - Managing organizational risk - idenify security weakness
+9. ethical priciple describes safeguarding personal information from unauthorized use?
+privacy protection
+
+COMPLETED JUNE 9
 
 
 Module 4 Cybersecurity tools and programming laugauages 
+ 
+What you'll learn: SIEM tools - playbooks -  network protocol analyzers - linux operating system - programming languages 
+
+Important cybersecurity tools QUIZ
+
+1. what tool is to designed to capure and analyze data traffic within network?
+Network protocol analyzer(packet sniffer)
+2. SIEM tools use dashborads to organize data into catergories and allow analyst to identify potential security incidents such breaches as they happen.
+4. A _______ is a manual that provides details about operational actions
+Playbook
+
+
+CORE CYBERSECURITY AND KNOWLEDGE SKILLS
+
+Linux - an open- source operating system
+Structured query language (SQL) - used to create, interact with, and request information from a database
+
+PYTHON and SQL can be used to perform repetitive, time consuming tasks and/or request information from a database
+
+
+COMPLETED JUNE 9
+
+
+
+
+
+
+
+
